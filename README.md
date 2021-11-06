@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TanishkDeo
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning reactive programming
-- 📫 Reach me at tanishk.deo@gmail.com
+- Hi, I’m @TanishkDeo
+- I’m interested in iOS development
+- I’m currently learning reactive programming
+- Reach me at tanishk.deo@gmail.com
 
 <!---
 TanishkDeo/TanishkDeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
