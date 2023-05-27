@@ -1,6 +1,4 @@
-- Hi, I’m @TanishkDeo
-- I’m interested in iOS development
-- I’m currently learning reactive programming
+- iOS developer
 - Reach me at tanishk.deo@gmail.com
 
 <!---
