@@ -1,4 +1,4 @@
-- iOS developer
+- hci, ml, ios
 - Reach me at tanishk.deo@gmail.com
 
 <!---
